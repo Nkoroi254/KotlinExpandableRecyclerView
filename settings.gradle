@@ -1,1 +1,1 @@
-include ':app', ':kotlinexpandablerecyclerview2'
+include ':sample-app', ':kotlinexpandablerecyclerview'
